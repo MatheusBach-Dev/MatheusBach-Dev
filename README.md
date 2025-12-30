@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Bach
+# 👨‍💻 Matheus Bach Preis Ferreira
 **Desenvolvedor FullStack**
 
 Olá! Me chamo Matheus Bach, sou desenvolvedor apaixonado por tecnologia e pelo potencial que ela oferece para transformar ideias em soluções reais. Tenho experiência em desenvolvimento web fullstack, com foco em criar aplicações robustas e escaláveis.
@@ -58,18 +58,31 @@ Estou sempre em busca de aprendizado contínuo e oportunidades que me permitam c
 
 ## 🚀 Projetos em Destaque
 
+### 🤖 [Moneta.ai](https://moneta-ai.site/)
+Plataforma de inteligência artificial para análise financeira e investimentos.
+
+**Tecnologias:** React, TypeScript, Node.js, Firebase
+**Status:** ✅ Finalizado
+
+### 🎨 [Natasha Flows](https://natashapreis.com.br/)
+Landing page moderna e responsiva com design elegante e animações fluidas.
+
+**Tecnologias:** React + Vite, Node.js, Tailwind CSS, Firebase
+**Status:** ✅ Finalizado
+
 ### 🎵 [Projeto Música](https://github.com/MatheusBach-Dev/projeto-musica)
 Plataforma web para conexão entre músicos e contratantes, desenvolvida com Spring Boot e React.
 
 **Tecnologias:** Java, Spring Boot, React, PostgreSQL, Maven
+**Status:** 🚧 Em andamento
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusBach-Dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusbachsta@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 ---
 

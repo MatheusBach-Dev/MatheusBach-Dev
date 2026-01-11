@@ -70,10 +70,10 @@ Landing page moderna e responsiva com design elegante e animações fluidas.
 **Tecnologias:** React + Vite, Node.js, Tailwind CSS, Firebase
 **Status:** ✅ Finalizado
 
-### 🎵 [Projeto Música](https://github.com/MatheusBach-Dev/projeto-musica)
+### 🎵 [Musique](https://github.com/MatheusBach-Dev/projeto-musica)
 Plataforma web para conexão entre músicos e contratantes, desenvolvida com Spring Boot e React.
 
-**Tecnologias:** Java, Spring Boot, React, PostgreSQL, Maven
+**Tecnologias:** Java, Spring Boot, React, PostgreSQL
 **Status:** 🚧 Em andamento
 
 ---

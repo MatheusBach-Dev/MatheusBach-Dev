@@ -58,7 +58,7 @@ Estou sempre em busca de aprendizado contínuo e oportunidades que me permitam c
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [Moneta.ai](https://monetaai.site/)
+### 🤖 [Moneta.ai](https://www.monetaai.site/)
 Plataforma de inteligência artificial para análise financeira e investimentos.
 
 **Tecnologias:** React, TypeScript, Node.js, Firebase

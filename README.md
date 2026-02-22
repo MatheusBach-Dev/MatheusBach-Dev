@@ -12,6 +12,7 @@ I work across backend and frontend, turning ideas into clean and efficient solut
 Passionate about problem-solving, clean architecture, and continuous improvement.
 
 📫 Let's connect:<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusbachsta@gmail.com)
 
 

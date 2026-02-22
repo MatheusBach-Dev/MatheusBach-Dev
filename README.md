@@ -4,8 +4,6 @@
 
 **FullStack Developer**
 
-## About Me
-
 Full-Stack Developer focused on building modern and scalable web applications.  
 Currently pursuing a degree in Computer Science.  
 I work across backend and frontend, turning ideas into clean and efficient solutions.  

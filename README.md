@@ -1,8 +1,8 @@
 <div align="center">
 
-# Matheus Bach
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Matheus+Bach+%F0%9F%91%8B;FullStack+Developer+%F0%9F%9A%80;Building+Modern+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
 
-**FullStack Developer**
+---
 
 *18-year-old tech student passionate about building real-world systems and solving problems.*  
 *Focused on growth, discipline, and turning ideas into reality.*

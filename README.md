@@ -4,7 +4,8 @@
 
 **FullStack Developer**
 
-*Passionate about technology and building solutions that make a difference*
+*18-year-old tech student passionate about building real-world systems and solving problems.*  
+*Focused on growth, discipline, and turning ideas into reality.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusbachsta@gmail.com)

@@ -4,10 +4,22 @@
 
 **FullStack Developer**
 
-Java • TypeScript • React • Spring Boot • Node.js
+*Passionate about technology and building solutions that make a difference*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusbachsta@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Java • JavaScript • TypeScript • C# • SQL
+
+**Backend:** Spring Boot • Node.js • Express • ASP.NET • Firebase
+
+**Frontend:** React • Vite • Tailwind CSS • Blazor
+
+**Databases:** PostgreSQL • MySQL • Firebase
 
 ---
 

@@ -4,20 +4,6 @@
 
 **FullStack Developer**
 
-*18-year-old tech student passionate about building real-world systems and solving problems.*  
-*Focused on growth, discipline, and turning ideas into reality.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusbachsta@gmail.com)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=MatheusBach-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=MatheusBach-Dev&theme=tokyo-night&hide_border=true)
-
----
-
 </div>
 
 ## About Me
@@ -27,7 +13,18 @@ Currently pursuing a degree in Computer Science.
 I work across backend and frontend, turning ideas into clean and efficient solutions.  
 Passionate about problem-solving, clean architecture, and continuous improvement.
 
-📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusbachsta@gmail.com)
+📫 Let's connect:<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matheusbachsta@gmail.com)
+
+
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=MatheusBach-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=MatheusBach-Dev&theme=tokyo-night&hide_border=true)
+
+---
 
 ## 💻 Tech Stack
 

@@ -4,8 +4,6 @@
 
 **FullStack Developer**
 
-</div>
-
 ## About Me
 
 Full-Stack Developer focused on building modern and scalable web applications.  

@@ -13,7 +13,7 @@ Passionate about problem-solving, clean architecture, and continuous improvement
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=matheusbachsta@gmail.com)
 
-
+![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=MatheusBach-Dev&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6)
 
 ---
 
@@ -52,6 +52,3 @@ Passionate about problem-solving, clean architecture, and continuous improvement
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-
-![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=MatheusBach-Dev&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6)

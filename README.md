@@ -52,3 +52,6 @@ Passionate about problem-solving, clean architecture, and continuous improvement
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+
+![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=MatheusBach-Dev&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15&row=1&column=6)

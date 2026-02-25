@@ -5,7 +5,7 @@
 ---
 
 Full-Stack Developer focused on building modern and scalable web applications.  
-Currently pursuing a degree in Computer Science.  
+Currently pursuing a degree in Computer Science on Fumec.  
 I work across backend and frontend, turning ideas into clean and efficient solutions.  
 Passionate about problem-solving, clean architecture, and continuous improvement.
 

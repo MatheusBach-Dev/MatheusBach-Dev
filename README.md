@@ -17,8 +17,6 @@ Passionate about problem-solving, clean architecture, and continuous improvement
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=MatheusBach-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MatheusBach-Dev&theme=tokyo-night&hide_border=true)
 
 ---

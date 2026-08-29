@@ -46,21 +46,9 @@ Currently pursuing a degree in Computer Science on Fumec. Working as a Backend I
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MatheusBach-Dev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F0EBE3&text_color=A89F91&icon_color=A89F91" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBach-Dev&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A89F91&fire=A89F91&currStreakLabel=F0EBE3&sideLabels=A89F91&currStreakNum=F0EBE3&sideNums=F0EBE3&dates=A89F91" width="48%" />
 
 </div>
-
-<br>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusBach-Dev&bg_color=0D0D0D&color=F0EBE3&line=A89F91&point=F0EBE3&hide_border=true&area=true" width="95%" />
-
-</div>
-
 <br>
 
 <div align="center">

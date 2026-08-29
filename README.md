@@ -52,7 +52,3 @@ Currently pursuing a degree in Computer Science on Fumec. Working as a Backend I
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" />
-
-</div>

@@ -1,48 +1,71 @@
 <div align="center">
-Learning to become a Full-Stack Developer — building modern, scalable web applications along the way.
-Currently pursuing a degree in Computer Science on Fumec.  
-I work across backend and frontend, turning ideas into clean and efficient solutions.  
-Passionate about problem-solving, clean architecture, and continuous improvement.
 
-📫 Let's connect:<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=Matheus%20Bach&fontSize=48&fontColor=F0EBE3&animation=fadeIn&fontAlignY=45" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=matheusbachsta@gmail.com)
+### Learning to become a Full-Stack Developer — building modern, scalable web applications along the way.
+Currently pursuing a degree in Computer Science on Fumec. I work across backend and frontend, turning ideas into clean and efficient solutions. Passionate about problem-solving, clean architecture, and continuous improvement.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MatheusBach-Dev&theme=darkhub&row=1&column=6&no-bg=true&margin-w=15&margin-h=15)
+<br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0EBE3)](https://linkedin.com/in/matheus-bach-preis-ferreira-7454231 9)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0EBE3)](mailto:youremail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F0EBE3)](https://matheusbach-dev.vercel.app/)
 
----
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusBach-Dev&theme=tokyo-night&hide_border=true&show_icons=true)
+<br>
 
----
+## Tech Stack
 
-## 💻 Tech Stack
+<div align="center">
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+**Frontend**
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A89F91)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=A89F91)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A89F91)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=A89F91)
 
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Backend**
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=A89F91)
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=A89F91)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=A89F91)
+
+**Database & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=A89F91)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=A89F91)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=A89F91)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A89F91)
+
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MatheusBach-Dev&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F0EBE3&text_color=A89F91&icon_color=A89F91" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBach-Dev&hide_border=true&background=0D0D0D&stroke=0D0D0D&ring=A89F91&fire=A89F91&currStreakLabel=F0EBE3&sideLabels=A89F91&currStreakNum=F0EBE3&sideNums=F0EBE3&dates=A89F91" width="48%" />
+
+</div>
+
+<br>
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusBach-Dev&bg_color=0D0D0D&color=F0EBE3&line=A89F91&point=F0EBE3&hide_border=true&area=true" width="95%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" />
+
+</div>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Inter:wght@300;400&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0d0d0d"/>
+
+  <!-- Subtle grid texture lines -->
+  <line x1="0" y1="1" x2="1200" y2="1" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="0" y1="299" x2="1200" y2="299" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- Left decorative vertical line -->
+  <line x1="80" y1="60" x2="80" y2="240" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- Right decorative vertical line -->
+  <line x1="1120" y1="60" x2="1120" y2="240" stroke="#2a2a2a" stroke-width="1"/>
+
+  <!-- Top horizontal accent line -->
+  <line x1="80" y1="60" x2="340" y2="60" stroke="#a89f91" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Bottom horizontal accent line -->
+  <line x1="80" y1="240" x2="340" y2="240" stroke="#a89f91" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Small corner dot top-left -->
+  <circle cx="80" cy="60" r="2" fill="#a89f91" opacity="0.5"/>
+  <circle cx="80" cy="240" r="2" fill="#a89f91" opacity="0.5"/>
+
+  <!-- Greeting label -->
+  <text
+    x="160"
+    y="118"
+    font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+    font-size="14"
+    font-weight="300"
+    letter-spacing="3"
+    fill="#a89f91"
+    text-anchor="start"
+  >OLÁ, ME CHAMO</text>
+
+  <!-- Main name — serif display -->
+  <text
+    x="155"
+    y="185"
+    font-family="'Playfair Display', 'Georgia', 'Times New Roman', serif"
+    font-size="72"
+    font-weight="700"
+    fill="#f0ebe3"
+    text-anchor="start"
+    letter-spacing="-1"
+  >Matheus Bach</text>
+
+  <!-- Subtitle -->
+  <text
+    x="160"
+    y="222"
+    font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+    font-size="13"
+    font-weight="300"
+    letter-spacing="1.5"
+    fill="#a89f91"
+    text-anchor="start"
+  >FULL-STACK DEVELOPER  ·  COMPUTER SCIENCE  ·  FUMEC</text>
+
+  <!-- Right side — outline icon group: code bracket -->
+  <g transform="translate(980, 120)" fill="none" stroke="#2e2e2e" stroke-width="1.2">
+    <!-- Code icon -->
+    <polyline points="0,20 -18,30 0,40" stroke="#a89f91" opacity="0.25"/>
+    <polyline points="30,20 48,30 30,40" stroke="#a89f91" opacity="0.25"/>
+    <line x1="22" y1="14" x2="8" y2="46" stroke="#a89f91" opacity="0.15"/>
+  </g>
+
+  <!-- Thin separator line between name and subtitle -->
+  <line x1="160" y1="198" x2="700" y2="198" stroke="#2a2a2a" stroke-width="0.8"/>
+
+</svg>

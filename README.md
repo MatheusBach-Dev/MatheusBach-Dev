@@ -20,6 +20,7 @@ Currently pursuing a degree in Computer Science on Fumec. Working as a Backend I
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A89F91)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=A89F91)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=A89F91)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A89F91)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=A89F91)

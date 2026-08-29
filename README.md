@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=Matheus%20Bach&fontSize=48&fontColor=F0EBE3&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=Matheus%20Bach%20Preis%20Ferreira&fontSize=36&fontColor=F0EBE3&animation=fadeIn&fontAlignY=45" />
 
-### Learning to become a Full-Stack Developer — building modern, scalable web applications along the way.
-Currently pursuing a degree in Computer Science on Fumec. Working as a Backend Intern at Prodemge, focused on Java. Passionate about problem-solving, clean architecture, and continuous improvement.
+### I'm Matheus, 19 years old, learning to become a Full-Stack Developer — building modern, scalable web applications along the way. Currently pursuing a degree in Computer Science on Fumec, and working as a Backend Intern at Prodemge, focused on Java. Passionate about problem-solving, clean architecture, and continuous improvement.
 
 <br>
 

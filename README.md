@@ -1,7 +1,4 @@
 <div align="center">
-
----
-
 Learning to become a Full-Stack Developer — building modern, scalable web applications along the way.
 Currently pursuing a degree in Computer Science on Fumec.  
 I work across backend and frontend, turning ideas into clean and efficient solutions.  

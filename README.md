@@ -3,13 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=Matheus%20Bach&fontSize=48&fontColor=F0EBE3&animation=fadeIn&fontAlignY=45" />
 
 ### Learning to become a Full-Stack Developer — building modern, scalable web applications along the way.
-Currently pursuing a degree in Computer Science on Fumec. I work across backend and frontend, turning ideas into clean and efficient solutions. Passionate about problem-solving, clean architecture, and continuous improvement.
+Currently pursuing a degree in Computer Science on Fumec. Working as a Backend Intern at Prodemge, focused on Java. Passionate about problem-solving, clean architecture, and continuous improvement.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0EBE3)](https://linkedin.com/in/matheus-bach-preis-ferreira-7454231 9)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0EBE3)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F0EBE3)](https://matheusbach-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0EBE3)](https://linkedin.com/in/matheus-bach-preis-ferreira-74542319) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0EBE3)](mailto:youremail@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F0EBE3)](https://matheusbach-dev.vercel.app/)
 
 </div>
 

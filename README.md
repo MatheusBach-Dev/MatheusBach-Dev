@@ -6,7 +6,7 @@ I'm Matheus, 19 years old, learning to become a Full-Stack Developer — buildin
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0EBE3)](https://linkedin.com/in/matheus-bach-preis-ferreira-74542319) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0EBE3)](mailto:youremail@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F0EBE3)](https://matheusbach-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0EBE3)](https://www.linkedin.com/in/matheus-bach-preis-ferreira-747542319/) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0EBE3)](mailto:matheusbachsta@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=F0EBE3)](https://matheusbach-dev.vercel.app/)
 
 </div>
 
